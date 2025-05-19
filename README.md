@@ -129,7 +129,7 @@ This part takes a moment to load, but the NETBIOS domain name should appear. Lea
 <img src="https://i.imgur.com/WhB4AhI.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Once the configuration is done, your Windows Server will restart itself.
+Once the configuration is done, your Windows Server will restart itself. When logging back in to the server, make sure you put mydomain.com/[username] for user. Use the same password as before.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Once the configuration is done, your Windows Server will restart itself.
 <img src="https://i.imgur.com/56ZRlcM.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Start and go to Active Directory Users and Computers under the Windows Administrative Tools folder.
 </p>
 <br />
 
@@ -147,7 +147,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Uk8kIkl.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right-click mydomain.com and go to New and then Organizational Unit.
 </p>
 <br />
 
@@ -155,7 +155,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/bspxcnL.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name the Organizational Unit "_EMPLOYEES". Create another one and name it "_ADMINS".
 </p>
 <br />
 
@@ -163,7 +163,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/5O6ixsW.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In _ADMINS, create a new user.
 </p>
 <br />
 
@@ -171,7 +171,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/ILyuFqN.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Fill out the names and User logon name. 
 </p>
 <br />
 
@@ -179,7 +179,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/9NHj9uJ.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this tutorial, I checked Password never expires.
 </p>
 <br />
 
@@ -187,7 +187,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/k85HFWL.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finish creating the Domain Admin user.
 </p>
 <br />
 
