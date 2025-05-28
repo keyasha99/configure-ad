@@ -139,7 +139,7 @@ Once the configuration is done, your Windows Server will restart itself. When lo
 <img src="https://i.imgur.com/56ZRlcM.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Open Start and go to Active Directory Users and Computers under the Windows Administrative Tools folder.
+After logging back in the Windows Server, open Start and go to Active Directory Users and Computers under the Windows Administrative Tools folder.
 </p>
 <br />
 
