@@ -293,7 +293,7 @@ When you close all of the programs, you will be asked whether you want to restar
 <img src="https://i.imgur.com/CitgsAY.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-When you login back into the Windows Server and go to Active Directory Users and Computers, you will see the Windows 10 computer in the Computers folder. Create a new Organizational Unit, name it "_CLIENTS", and move the computer to _CLIENTS.
+When you log back into the Windows Server and go to Active Directory Users and Computers, you will see the Windows 10 computer in the Computers folder. Create a new Organizational Unit, name it "_CLIENTS", and move the computer to _CLIENTS.
 </p>
 <br />
 
