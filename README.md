@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/rhl2hGX.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Log into the Windows Server. The Server Manager should pop up after logging in. Go to Add roles and features in the Quick Start menu.
+To begin, log into the Windows Server you've created on Microsoft Azure. The Server Manager should pop up after logging in. Go to Add roles and features in the Quick Start menu.
 </p>
 <br />
 
@@ -73,7 +73,31 @@ For Server Roles, you are going to select Active Directory Domain Services.
 <img src="https://i.imgur.com/tma3hst.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Click Add Features and continue with the installation. 
+Click Add Features. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/r0IGWIX.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Next. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IDBSVAt.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Next. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/vHGOsvO.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Check the box Restart the destination server automatically if required. 
 </p>
 <br />
 
@@ -81,7 +105,20 @@ Click Add Features and continue with the installation.
 <img src="https://i.imgur.com/RLvkLOD.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-When you get to Confirm installation selection, check the box for Restart the destination server automatically if required. Click Yes on the pop up window and finish the installation.
+Click Yes on the pop up window and click Install to finish the installation.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KGX4NVP.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tHMM91C.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Close the wizard once the installation is done. 
 </p>
 <br />
 
@@ -89,7 +126,7 @@ When you get to Confirm installation selection, check the box for Restart the de
 <img src="https://i.imgur.com/rtX4kfC.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-After the installation is done, go to the notification flag at the top and click Promote this server to domain controller.
+Next, go to the notification flag at the top and click Promote this server to domain controller.
 </p>
 <br />
 
@@ -126,10 +163,42 @@ This part takes a moment to load, but the NETBIOS domain name should appear. Lea
 <br />
 
 <p>
+<img src="https://i.imgur.com/PNyAf4t.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Next.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FIe5ZlU.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Next.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6UphZBN.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/K2bi7pN.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Close the window.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/WhB4AhI.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Once the configuration is done, your Windows Server will restart itself. When logging back in to the server, make sure you put mydomain.com/[username] for user. Use the same password as before.
+This is when your Windows Server will restart itself. When logging back in to the server, make sure you put mydomain.com/[username] for user. Use the same password as before.
 </p>
 <br />
 
