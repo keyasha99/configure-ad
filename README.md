@@ -190,7 +190,7 @@ Click Install.
 <img src="https://i.imgur.com/K2bi7pN.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Close the window.
+Close the window once the installation is done.
 </p>
 <br />
 
