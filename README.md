@@ -224,7 +224,20 @@ Right-click mydomain.com and go to New and then Organizational Unit.
 <img src="https://i.imgur.com/bspxcnL.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Name the Organizational Unit "_EMPLOYEES". Create another one and name it "_ADMINS".
+Name the Organizational Unit "_EMPLOYEES".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/K0uzlrj.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Create another Organizational Unit and name it "_ADMINS".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/30hRehh.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <br />
 
@@ -359,10 +372,31 @@ When you close all of the programs, you will be asked whether you want to restar
 <br />
 
 <p>
-<img src="https://i.imgur.com/CitgsAY.png" height="80%" width="80%" alt="Configure Active Directory"/>
+<img src="https://i.imgur.com/PuJJ9Sa.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-When you log back into the Windows Server and go to Active Directory Users and Computers, you will see the Windows 10 computer in the Computers folder. Create a new Organizational Unit, name it "_CLIENTS", and move the computer to _CLIENTS.
+When you log back into the Windows Server and go to Active Directory Users and Computers, you will see the Windows 10 VM in the Computers folder.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/65ZJ68k.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Create a new Organizational Unit and name it "_CLIENTS".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lqsqgrU.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Move the computer to the _CLIENTS folder. Click Yes on the pop up window.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CitgsAY.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <br />
 
