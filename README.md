@@ -24,6 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create a Domain Admin user within the domain
 - Join Client-1 to the domain
 - Set up Remote Desktop for non-administrative users on Client-1
+- Create additional users and attempt to log into Client-1 with one of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -447,6 +448,72 @@ Click Add.
 </p>
 <p>
 Enter domain user, go to Check Names, and click OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<h3>Create additional users and attempt to log into Client-1 with one of the users</h3>
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click Add and then OK.
 </p>
 <br />
 
