@@ -372,10 +372,18 @@ When you close all of the programs, you will be asked whether you want to restar
 <br />
 
 <p>
+<img src="https://imgur.com/DTgRUZY.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+When you log back into the Windows Server and go to Active Directory Users and Computers.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/PuJJ9Sa.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-When you log back into the Windows Server and go to Active Directory Users and Computers, you will see the Windows 10 VM in the Computers folder.
+Upon opening, you will see the Windows 10 VM in the Computers folder.
 </p>
 <br />
 
