@@ -462,23 +462,23 @@ Click Add and then OK.
 <h3>Create additional users and attempt to log into Client-1 with one of the users</h3>
 
 <p>
-<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+<img src="https://imgur.com/iDpjhqc.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Click Add and then OK.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
-</p>
-<p>
-Click Add and then OK.
+Log into the Windows Server and open up Windows Powershell ISE as an administrator by right clicking it.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/YgLJVac.png" height="80%" width="80%" alt="Configure Active Directory"/>
+<img src="https://imgur.com/p9mECXC.png" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
+Click on New Script at the top left corner under the File tab.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/fDQtSrz.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
 Click Add and then OK.
