@@ -470,10 +470,10 @@ Log into the Windows Server and open up Windows Powershell ISE as an administrat
 <br />
 
 <p>
-<img src="https://imgur.com/p9mECXC.png" height="80%" width="80%" alt="Configure Active Directory"/>
+<img src="https://imgur.com/puVf0jA.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Click on New Script at the top left corner under the File tab.
+Paste the contents of the [script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) in the file.
 </p>
 <br />
 
